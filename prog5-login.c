@@ -19,8 +19,5 @@ void main(){
     }
     else{
         printf("Login failed!! Incorrect email or password");
-    }
-
-
-    
+    }   
 }
